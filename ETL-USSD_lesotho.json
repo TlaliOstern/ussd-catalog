@@ -1,0 +1,6 @@
+{
+  "name": "Econet Telecom Lesotho",
+  "shortcuts": [
+    { "category": "General", "title": "Econet main menu", "code": "*100#" }
+  ]
+}

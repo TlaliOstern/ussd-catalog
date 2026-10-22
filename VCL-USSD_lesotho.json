@@ -1,0 +1,8 @@
+{
+  "name": "Vodacom Lesotho",
+  "shortcuts": [
+    { "category": "General", "title": "Vodacom services menu", "code": "*111#" },
+    { "category": "M-Pesa",  "title": "M-Pesa menu",           "code": "*200#" },
+    { "category": "Airtime", "title": "Recharge airtime",      "code": "*100*01*{voucher}#", "voucher": true }
+  ]
+}
