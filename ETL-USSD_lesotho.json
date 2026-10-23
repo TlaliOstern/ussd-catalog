@@ -1,9 +1,9 @@
 {
   "name": "Econet Telecom Lesotho",
   "shortcuts": [
-    { "category": "General", "title": "Econet main menu", "code": "*100#" },
-    { "category": "General", "title": "Check Balance", "code": "*134#" },
-    { "category": "General", "title": "Recharge Airtime ", "code": "*133*{voucher}#" },
-    { "category": "ecocash", "title": "Ecocash menu", "code": "*199#" }
+    { "category": "General", "title": "Econet main menu",  "code": "*100#" },
+    { "category": "General", "title": "Check Balance",     "code": "*134#" },
+    { "category": "General", "title": "Recharge Airtime ", "code": "*133*{voucher}#"  "voucher": true},
+    { "category": "ecocash", "title": "Ecocash menu",      "code": "*199#" }
   ]
 }
