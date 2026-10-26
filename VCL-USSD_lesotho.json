@@ -1,8 +1,24 @@
 {
   "name": "Vodacom Lesotho",
   "shortcuts": [
-    { "category": "General", "title": "Vodacom services menu", "code": "*111#" },
-    { "category": "M-Pesa",  "title": "M-Pesa menu",           "code": "*200#" },
-    { "category": "Airtime", "title": "Recharge airtime",      "code": "*100*01*{voucher}#", "voucher": true }
+    { "category": "General", "title": "Vodacom services menu",    "code": "*111#" },
+    { "category": "General", "title": "Airtime & main balance",   "code": "*100#" },
+    { "category": "General", "title": "Show my phone number",     "code": "*135*501#" },
+    { "category": "General", "title": "SIM features (PUK details)", "code": "*135#" },
+
+    { "category": "Airtime", "title": "Recharge airtime",         "code": "*100*01*{voucher}#", "voucher": true },
+    { "category": "Airtime", "title": "Airtime transfer menu",    "code": "*123#" },
+    { "category": "Airtime", "title": "Confirm airtime transfer", "code": "*123*02#" },
+    { "category": "Airtime", "title": "Cancel airtime transfer",  "code": "*123*03#" },
+
+    { "category": "M-Pesa",  "title": "M-Pesa menu",              "code": "*200#" },
+
+    { "category": "Offers",  "title": "Just 4 You (J4Y) offers",  "code": "*121#" },
+    { "category": "Offers",  "title": "NXT LVL registration",     "code": "*114*36#" },
+
+    { "category": "Entertainment", "title": "VAS & Meloli welcome tones", "code": "*117#" },
+    { "category": "Entertainment", "title": "Vodacom Football & content", "code": "*117*2#" },
+    { "category": "Entertainment", "title": "InstaVoice portal",    "code": "*118#" },
+    { "category": "Entertainment", "title": "Premium service status", "code": "*230*2#" }
   ]
 }
