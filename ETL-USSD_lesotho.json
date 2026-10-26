@@ -1,9 +1,17 @@
 {
   "name": "Econet Telecom Lesotho",
   "shortcuts": [
-    { "category": "General", "title": "Econet main menu",  "code": "*100#" },
-    { "category": "General", "title": "Check Balance",     "code": "*134#" },
-    { "category": "General", "title": "Recharge Airtime ", "code": "*133*{voucher}#", "voucher": true},
-    { "category": "ecocash", "title": "Ecocash menu",      "code": "*199#" }
+    { "category": "General", "title": "Econet main menu",           "code": "*100#" },
+    { "category": "General", "title": "Check Balance",              "code": "*134#" },
+    { "category": "General", "title": "Out-of-bundle opt in/out",   "code": "*100*812#" },
+    { "category": "General", "title": "Activate airtime/data advance", "code": "*126#" },
+    { "category": "General", "title": "Roaming activation",         "code": "*197#" },
+
+    { "category": "Airtime", "title": "Recharge Airtime",           "code": "*133*{voucher}#", "voucher": true },
+
+    { "category": "EcoCash", "title": "EcoCash menu",               "code": "*199#" },
+    { "category": "EcoCash", "title": "Resend electricity token",   "code": "*199*9#" },
+    { "category": "EcoCash", "title": "Bank to EcoCash (SLB)",      "code": "*128#" },
+    { "category": "EcoCash", "title": "Pay for EcoSure",            "code": "*188#" }
   ]
 }
