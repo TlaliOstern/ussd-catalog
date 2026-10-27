@@ -1,6 +1,7 @@
 {
   "catalogs": [
     { "mccmnc": "65101", "file": "VCL-USSD_lesotho.json" },
-    { "mccmnc": "65102", "file": "ETL-USSD_lesotho.json" }
+    { "mccmnc": "65102", "file": "ETL-USSD_lesotho.json" },
+    { "mccmnc": "65510", "file": "MTN-USSD_southafrica.json" }
   ]
 }
