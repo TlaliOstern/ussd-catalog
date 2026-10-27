@@ -1,0 +1,40 @@
+{
+  "name": "MTN South Africa",
+  "shortcuts": [
+    { "category": "General", "title": "Browse all MTN services",     "code": "*130*0#" },
+    { "category": "General", "title": "Check balance",               "code": "*136#" },
+    { "category": "General", "title": "Detailed balances",           "code": "*136*1#" },
+    { "category": "General", "title": "Show my phone number",        "code": "*123*888#" },
+
+    { "category": "Recharge", "title": "Recharge airtime (voucher)", "code": "*136*{voucher}#", "voucher": true },
+    { "category": "Recharge", "title": "Eazi recharge (bank card)",  "code": "*136*10#" },
+    { "category": "Recharge", "title": "Airtime/data transfer (Me2U)", "code": "*136*3#" },
+    { "category": "Recharge", "title": "Borrow airtime/data (XtraTime)", "code": "*151*2#" },
+
+    { "category": "Recharge via bank", "title": "Recharge via Absa",          "code": "*120*2272#" },
+    { "category": "Recharge via bank", "title": "Recharge via Capitec",       "code": "*120*3279#" },
+    { "category": "Recharge via bank", "title": "Recharge via FNB",           "code": "*120*321#" },
+    { "category": "Recharge via bank", "title": "Recharge via Nedbank",       "code": "*120*001#" },
+    { "category": "Recharge via bank", "title": "Recharge via Standard Bank", "code": "*120*2345#" },
+
+    { "category": "Bundles", "title": "Buy data, voice or SMS bundles", "code": "*136*2#" },
+    { "category": "Bundles", "title": "Manage subscriptions",         "code": "*136*5#" },
+    { "category": "Bundles", "title": "Change price plan",            "code": "*136*4#" },
+    { "category": "Bundles", "title": "Personalised offers",          "code": "*142#" },
+    { "category": "Bundles", "title": "Social bundle deals",          "code": "*143#" },
+    { "category": "Bundles", "title": "Pulse bundles (youth)",        "code": "*411#" },
+    { "category": "Bundles", "title": "Digital subscriptions",        "code": "*155#" },
+
+    { "category": "Calls & roaming", "title": "Please Call Me menu",      "code": "*121#" },
+    { "category": "Calls & roaming", "title": "International calls & voicemail", "code": "*135#" },
+    { "category": "Calls & roaming", "title": "International calling rates", "code": "*135*2#" },
+    { "category": "Calls & roaming", "title": "SMS roaming activation",   "code": "*135*14#" },
+    { "category": "Calls & roaming", "title": "Prepaid roaming balance",  "code": "*141#" },
+    { "category": "Calls & roaming", "title": "Prepaid roaming rates",    "code": "*111*1#" },
+
+    { "category": "Account", "title": "RICA registration",    "code": "*131#" },
+    { "category": "Account", "title": "SIM swap setup",       "code": "*126*7927#" },
+    { "category": "Account", "title": "YelloBucks rewards",   "code": "*234#" },
+    { "category": "Account", "title": "MTN financial services", "code": "*151#" }
+  ]
+}
